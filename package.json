@@ -19,7 +19,7 @@
     "html2canvas": "^1.4.1",
     "jsonwebtoken": "^9.0.0",
     "jspdf": "^3.0.1",
-    "mongodb": "^6.17.0",
+    "mongodb": "^6.18.0",
     "mongoose": "^8.16.1",
     "multer": "^2.0.1"
   },
